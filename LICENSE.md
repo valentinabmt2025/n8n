@@ -1,4 +1,4 @@
-# License
+# License   
 
 Portions of this software are licensed as follows:
 
@@ -86,3 +86,4 @@ management and policies by vote, contract, or otherwise. Control can be direct o
 “Use” means anything you do with the software requiring your license.
 
 “Trademark” means trademarks, service marks, and similar rights.
+ 
